@@ -1,7 +1,6 @@
 **Restfulbooker: Intentional Mistakes in the Repository**
 
-This repository contains intentional mistakes in the delete and update files as part of a learning exercise. These errors are included to help you practice identifying and fixing common issues.
-
+This repository contains intentional mistakes in the delete and update files as part of a learning exercise. 
 **List of Intentional Mistakes:**
 
 1. **Status Code Error**: In `test_6_booking_delete`, there is an error with the status code.
