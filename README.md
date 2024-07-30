@@ -1,16 +1,13 @@
-# Restfulbooker
+**Restfulbooker: Intentional Mistakes in the Repository**
 
-## Intentional Mistakes in the Repository
+This repository contains intentional mistakes in the delete and update files as part of a learning exercise. These errors are included to help you practice identifying and fixing common issues.
 
-This repository includes certain intentional mistakes in the delete and update files. These mistakes are part of a learning exercise.
+**List of Intentional Mistakes:**
 
-### Intentional Mistakes
+1. **Status Code Error**: In `test_6_booking_delete`, there is an error with the status code.
+2. **Skipped Test**: The `test_booking_update` is skipped in `test_4_booking_put`.
+3. **Missing Fixture**: In `test_negative_update_booking` within `test_4_booking_put`, the fixture 'x' is not found.
 
-- **Mistake 1**: Status code error in `test_6_booking_delete`
-- **Mistake 2**: Skip in `test_booking_update` in `test_4_booking_put`
-- **Mistake 3**: Fixture 'x' not found in `test_negative_update_booking` in `test_4_booking_put`
-
-Please review these mistakes with the understanding that they are deliberate and intended for educational purposes.
-
+Please note that these mistakes are deliberate and meant for educational purposes. Review them with this context in mind.
 
 
