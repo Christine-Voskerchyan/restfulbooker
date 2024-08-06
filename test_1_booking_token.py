@@ -2,7 +2,6 @@ import requests
 import pytest
 import allure
 
-# Initialize the global token variable
 my_token = None
 
 @pytest.mark.smoke
